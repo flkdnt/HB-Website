@@ -23,17 +23,17 @@ Heroes Betterment Incorporated Website built by Dante Foulke
 					<header id="header">
 						<div class="inner">
 							<!-- Logo -->
-						 <a href="home.html" class="logo" >
+						 <a href="/" class="logo" >
 							 <span class="symbol"><img src="images/HB logo.png" alt="Heroes Betterment Inc." /></span>
 						 </a>
 
           		<!-- Menu -->
 							<nav>
 								<ul>
-									<li class="home_button"><a class="current" href="Home.html">Home</a></li>
-									<li class="menu_button"><a href="GetInvolved.html">Get Involved</a></li>
-									<li class="menu_button"><a href="Signup.html">Deployed Sign-Up</a></li>
-									<li class="menu_button"><a href="Contact.html">Contact Us</a></li>
+									<li class="home_button"><a class="current" href="/">Home</a></li>
+									<li class="menu_button"><a href="/get-involved.php">Get Involved</a></li>
+									<li class="menu_button"><a href="/signup.php">Deployed Sign-Up</a></li>
+									<li class="menu_button"><a href="/contact.php">Contact Us</a></li>
 									<li class="icons"><a href="https://www.facebook.com/hbsforcarepackages/" class="icon style1 fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 									<li class="icons"><a href="https://www.instagram.com/hbcarepackages/" class="icon style1 fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 								</ul>

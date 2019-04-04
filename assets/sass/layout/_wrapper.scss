@@ -12,8 +12,8 @@
 				$gutter: _size(gutter);
 
 				width: 100%;
-				max-width: _size(inner);
-				//margin: 0 auto;
+				max-width: _size(inner); //hide this if you want a full width view type of website. This is the most modern choice
+				//margin: 0 auto; // re-add this to center the content in box view
 				//padding: 0 $gutter;
 
 				@include breakpoint(small) {

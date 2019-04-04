@@ -31,10 +31,10 @@ Heroes Betterment Incorporated Website built by Dante Foulke
           		<!-- Menu -->
 							<nav>
 								<ul>
-									<li class="home_button"><a href="Home.html">Home</a></li>
-									<li class="menu_button"><a href="GetInvolved.html">Get Involved</a></li>
-									<li class="menu_button"><a class="current" href="Signup.html">Deployed Sign-Up</a></li>
-									<li class="menu_button"><a href="Contact.html">Contact Us</a></li>
+									<li class="home_button"><a href="/">Home</a></li>
+									<li class="menu_button"><a href="/get-involved.php">Get Involved</a></li>
+									<li class="menu_button"><a href="/signup.php" class="current" >Deployed Sign-Up</a></li>
+									<li class="menu_button"><a href="/contact.php">Contact Us</a></li>
 									<li class="icons"><a href="https://www.facebook.com/hbsforcarepackages/" class="icon style1 fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 									<li class="icons"><a href="https://www.instagram.com/hbcarepackages/" class="icon style1 fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 								</ul>
